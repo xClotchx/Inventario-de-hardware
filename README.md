@@ -60,6 +60,7 @@ Este es un sistema de gestión de inventario desarrollado con **PHP** y **MariaD
   
 >[!IMPORTANT]
 >Se requiere tener instalado el brew.
+
 # Codigo index.PHP
 <img width="934" height="577" alt="image" src="https://github.com/user-attachments/assets/49002ce0-c373-4300-a31d-e079bdca311a" />
 <img width="936" height="464" alt="image" src="https://github.com/user-attachments/assets/41d6648e-3b78-4188-9af5-fa64d5e25cb2" />
@@ -81,6 +82,8 @@ Este es un sistema de gestión de inventario desarrollado con **PHP** y **MariaD
 <img width="631" height="598" alt="image" src="https://github.com/user-attachments/assets/eae82fff-0cad-47d1-b586-aadd1cd9f225" />
 <img width="779" height="520" alt="image" src="https://github.com/user-attachments/assets/4996d268-e10c-40fa-88b3-a01263a4f26f" />
 <img width="857" height="320" alt="image" src="https://github.com/user-attachments/assets/684b98a0-2f14-46bc-80a4-f4dbe4c319f6" />
+
+
 >[!IMPORTANT]
 >saldra lineas amarillas (7) no es ningun error solo avisando de la comprencion del codigo.
 
