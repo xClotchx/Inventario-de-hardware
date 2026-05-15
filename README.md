@@ -56,6 +56,8 @@ Este es un sistema de gestión de inventario desarrollado con **PHP** y **MariaD
 - Inicia mariadb
   ```bash
    brew services start mariadb
+  
+  
 >[!IMPORTANT]
 >Se requiere tener instalado el brew.
 # Codigo index.PHP
@@ -67,6 +69,8 @@ Este es un sistema de gestión de inventario desarrollado con **PHP** y **MariaD
 
 # Codigo db.PHP
 <img width="476" height="339" alt="image" src="https://github.com/user-attachments/assets/c3e0d689-3f8a-4662-a73b-6c1e4406e93e" />
+
+
 >[!IMPORTANT]
 >Este es el php que se encarga de realizar la conexion con la base de datos.
 
