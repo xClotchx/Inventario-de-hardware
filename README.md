@@ -1,4 +1,6 @@
-# 🛠️ Sistema de Inventario de Hardware 
+<img width="1200" height="480" alt="Gestion de inventario" src="https://github.com/user-attachments/assets/7b26d124-e0d3-4d98-81b8-b55c882bae0c" />
+
+# 🛠️ Sistema de Gestion de Inventario de Hardware 
 
 Este es un sistema de gestión de inventario desarrollado con **PHP** y **MariaDB**. Permite administrar componentes de hardware, controlar el stock mediante alertas visuales de colores y realizar filtrados avanzados.
 
